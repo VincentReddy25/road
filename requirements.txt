@@ -5,3 +5,4 @@ scikit-learn
 seaborn
 gmaps
 twilio
+gunicorn
