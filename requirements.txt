@@ -1,8 +1,7 @@
 Flask
 pandas
 scikit-learn
-vaex
-toolz
+
 seaborn
 gmaps
 twilio
